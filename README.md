@@ -16,7 +16,7 @@ ___
 
 ### About
 
-This minecraft mod adds you the ability to write notes, authographs and id-cards using the Item Edit plugin.
+This minecraft mod adds you the ability to write notes, autographs and id-cards using the Item Edit plugin.
 
 It also adds document folders in different colours, which are created using the same method as the notes, but from bundles rather than paper.
 
