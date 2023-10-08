@@ -1,0 +1,46 @@
+{
+  "key.writer.writer" : "Open the note writing interface",
+  "hud.writer.air" : "Please take something in your main hand, such as paper",
+
+  "gui.writer.label" : "CHOOSE A TEMPLATE",
+  "gui.writer.lorereset" : "RESET ITEM LORE",
+  "gui.writer.sign" : "Sign",
+  "gui.writer.me" : "is writing something...",
+  "gui.writer.fillform" : "Please fill out the form first",
+
+  "gui.writer.note.label" : "WRITE THE NOTE",
+  "item.writer.note" : "Note",
+  "gui.writer.note.text" : "Type the text of the your note",
+  "gui.writer.note.postscript" : "Write the postscript if you need it",
+
+  "gui.writer.id.label" : "WRITE THE IDENTIFY DOCUMENT",
+  "item.writer.id" : "Identity document",
+  "gui.writer.id.name" : "Full name",
+  "gui.writer.id.author" : "Issued by",
+  "gui.writer.id.date" : "Date of issue",
+  "gui.writer.id.postscript" : "Write the postscript if you need it",
+
+  "gui.writer.autograph.label" : "LEAVE AN AUTOGRAPH",
+  "item.writer.autograph" : "Autograph",
+  "gui.writer.autograph.text" : "Write something",
+  "gui.writer.autograph.autograph" : "Leave your autograph",
+
+  "gui.writer.folder.label" : "MAKE A FOLDER",
+
+  "item.writer.folder.gray" : "Gray folder",
+  "item.writer.folder.brown" : "Brown folder",
+  "item.writer.folder.red" : "Red folder",
+  "item.writer.folder.orange" : "Orange folder",
+  "item.writer.folder.yellow" : "Yellow folder",
+  "item.writer.folder.lime" : "Lime folder",
+  "item.writer.folder.green" : "Green folder",
+  "item.writer.folder.cyan" : "Cyan folder",
+  "item.writer.folder.light_blue" : "Light blue folder",
+  "item.writer.folder.blue" : "Blue folder",
+  "item.writer.folder.purple" : "Purple folder",
+  "item.writer.folder.magenta" : "Magenta folder",
+  "item.writer.folder.pink" : "Pink folder",
+
+  "modmenu.summaryTranslation.writer": "This mod adds you the ability to write notes in minecraft using the Item Edit plugin",
+  "modmenu.descriptionTranslation.writer": "ATTENTION, ALARM, GOOGLE TRANSLATION!!!\nIt makes it possible to create various notes, which, moreover, in the presence of CIT Resewn / Optifine, have their own textures. Folders for documents of different colors from a bundle - as a gift!"
+}

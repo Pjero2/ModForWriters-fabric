@@ -1,0 +1,6 @@
+{
+    "parent": "item/bundle",
+    "textures": {
+        "layer0": "writer:item/folders/lime_folder_filled"
+    }
+}

@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "writer",
+	"version": "${version}",
+	"name": "Mod for writers",
+	"description": "This mod adds you the ability to write notes in minecraft using the Item Edit plugin",
+	"authors": [
+		{
+			"name": "Pjero2",
+			"contact": {
+				"homepage": "https://t.me/PGCode"
+			}
+		}
+	],
+	"license": "LGPL-3.0",
+	"contact": {
+		"homepage": "https://modrinth.com/mod/writer-mod",
+		"sources": "https://github.com/Pjero2/WriterMod-fabric"
+	},
+	"icon": "assets/writer/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"tg.pgcode.ModForWriters"
+		],
+		"client": [
+			"tg.pgcode.Client"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

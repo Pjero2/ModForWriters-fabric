@@ -1,0 +1,6 @@
+{
+    "parent": "item/bundle",
+    "textures": {
+        "layer0": "writer:item/folders/purple_folder_filled"
+    }
+}

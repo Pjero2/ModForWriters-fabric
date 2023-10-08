@@ -1,0 +1,46 @@
+{
+  "key.writer.writer" : "Открыть интерфейс писателя",
+  "hud.writer.air" : "Пожалуйста, возьмите что-нибудь в основную руку, например, бумагу",
+
+  "gui.writer.label" : "ВЫБЕРИ ШАБЛОН",
+  "gui.writer.lorereset" : "ОЧИСТИТЬ ОПИСАНИЕ ПРЕДМЕТА",
+  "gui.writer.sign" : "Подписать",
+  "gui.writer.me" : "пишет что-то...",
+  "gui.writer.fillform" : "Пожалуйста, сначала заполни форму",
+
+  "gui.writer.note.label" : "НАПИСАТЬ ЗАПИСКУ",
+  "item.writer.note" : "Записка",
+  "gui.writer.note.text" : "Введите текст вашей записки...",
+  "gui.writer.note.postscript" : "Напишите постскриптум, если он нужен...",
+
+  "gui.writer.id.label" : "НАПИСАТЬ УДОСТОВЕРЕНИЕ ЛИЧНОСТИ",
+  "item.writer.id" : "Удостоверение личности",
+  "gui.writer.id.name" : "Полное имя",
+  "gui.writer.id.author" : "Выдал/а",
+  "gui.writer.id.date" : "Дата выдачи",
+  "gui.writer.id.postscript" : "Напишите пояснение, если оно необходимо",
+
+  "gui.writer.autograph.label" : "ОСТАВИТЬ АВТОГРАФ",
+  "item.writer.autograph" : "Автограф",
+  "gui.writer.autograph.text" : "Напишите что-нибудь",
+  "gui.writer.autograph.autograph" : "Оставьте свой автограф",
+
+  "gui.writer.folder.label": "СОЗДАТЬ ПАПКУ",
+
+  "item.writer.folder.gray" : "Серая папка",
+  "item.writer.folder.brown" : "Коричневая папка",
+  "item.writer.folder.red" : "Красная папка",
+  "item.writer.folder.orange" : "Оранжевая папка",
+  "item.writer.folder.yellow" : "Жёлтая папка",
+  "item.writer.folder.lime" : "Лаймовая папка",
+  "item.writer.folder.green" : "Зелёная папка",
+  "item.writer.folder.cyan" : "Бирюзовая папка",
+  "item.writer.folder.light_blue" : "Голубая папка",
+  "item.writer.folder.blue" : "Синяя папка",
+  "item.writer.folder.purple" : "Фиолетовая папка",
+  "item.writer.folder.magenta" : "Пурпурная папка",
+  "item.writer.folder.pink" : "Розовая папка",
+
+  "modmenu.summaryTranslation.writer": "Учит вашего персонажа писать записки с помощью комманд плагина ItemEdit.",
+  "modmenu.descriptionTranslation.writer": "Даёт возможность создавать различные записульки, которые к тому же при наличии CIT Resewn/Optifine имеют свои текстурки. Папки для документов разных цветов из мешочка - в подарок!"
+}
